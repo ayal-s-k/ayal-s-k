@@ -2,7 +2,7 @@
 
 Some general points about me, as suggested by GitHub:
 
-- 🔭 I’m currently working as a mechanical engineer, and dabble with coding projects, such as stock market analysis and forces between magnets 
+- 🔭 I’m currently working as a mechanical engineer, and dabble with coding projects, such as stock market analysis and calculating forces between magnets 
 - 🌱 I’m currently learning how to code in python and organize my code well
 - 💬 Ask me about my projects, I will always be happy to discuss them 😊
 - 📚 My education includes a BSc in Mechanical Engineering and in Physics
